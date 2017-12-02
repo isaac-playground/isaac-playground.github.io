@@ -3,9 +3,6 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://example.com" # the base hostname & protocol for your site
 
 
-remote-theme: mmistakes/minimal-mistakes 
-
-
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
@@ -81,4 +78,5 @@ sass:
   style: :compressed
 gems: [jekyll-paginate]
 
-theme: jekyll-theme-dinky
+remote-theme: mmistakes/minimal-mistakes
+# theme: jekyll-theme-dinky
