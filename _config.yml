@@ -80,3 +80,4 @@ gems: [jekyll-paginate]
 
 remote-theme: mmistakes/minimal-mistakes
 # theme: jekyll-theme-dinky
+theme: jekyll-theme-tactile
